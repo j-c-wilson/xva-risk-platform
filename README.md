@@ -9,7 +9,7 @@
 
 This platform is an institutional-grade front-office risk engine designed to perform multi-asset portfolio valuation, counterparty credit risk assessment, xVA capital budgeting, and stress testing. The system combines an in-memory 10,000-trial Monte Carlo simulation engine written in vectorized VBA with dynamic Excel dashboard controls and closed-form analytic models.
 
- [image link going here] 
+![alt text](https://github.com/j-c-wilson/xva-risk-platform/blob/main/Dashboard%20View.png "Dashboard View")
   
   
 
@@ -133,7 +133,7 @@ The platform incorporates a full valuation adjustment framework to price counter
 
 A core finding from this model is the structural interaction between CVA and MVA across varying confidence levels:
 
-[image link going here]
+![alt text](https://github.com/j-c-wilson/xva-risk-platform/blob/main/Confidence%20vs%20xVa.png "Varying Confidence")
 
 ### Low Confidence
 
